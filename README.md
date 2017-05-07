@@ -1,4 +1,4 @@
-<img src="https://github.com/PrithviKamath/kamath_prithvi_spring2017/blob/master/Analysis%20on%20CMU%20Enron%20dataset/Enron_logo.jpg"></img>
+<img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Extras/Enron_logo.jpg"></img>
 <b>Enron Dataset</b>
 
 <b>Summary:</b> <br />
@@ -22,7 +22,7 @@
 Mr. Richard Shapiro was Enron’s top lobbyist who took part in an organized attempt to influence legislators through his wrong doing <br />
 
 <b>Files:</b> Enron Analysis 1 <br />
-<img src="https://github.com/PrithviKamath/kamath_prithvi_spring2017/blob/master/Analysis%20on%20CMU%20Enron%20dataset/from_email_list.PNG"></img>
+<img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/from_email_list.PNG"></img>
  <br />
 
 
@@ -39,7 +39,7 @@ Mr. Richard Shapiro was Enron’s top lobbyist who took part in an organized att
 • Words like ‘Enron’, ‘gas’, ‘energy’ and ‘communication’ suggest what kind of company Enron was. Enron Corporation was an American energy, commodities, and services company
 
 <b>Files:</b> Enron Analysis 2  <br />
-<img src="https://github.com/PrithviKamath/kamath_prithvi_spring2017/blob/master/Analysis%20on%20CMU%20Enron%20dataset/Analysis_2.PNG"></img>
+<img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/Analysis_2.PNG"></img>
  <br />
 
 <b>Analysis 3:</b> Find the emails in Mr. Kenneth Lay’s deleted_items folder which had ‘bankruptcy’ in them  <br />
@@ -54,5 +54,5 @@ Mr. Richard Shapiro was Enron’s top lobbyist who took part in an organized att
 • Hence we can conclude that there might have been a survey or a poll conducted after the Enron scandle was publisized and the people who signed up for this survey have sent the same mail to My Kenneth Lay
 
 <b>Files:</b> Enron Analysis 3 <br />
-<img src="https://github.com/PrithviKamath/kamath_prithvi_spring2017/blob/master/Analysis%20on%20CMU%20Enron%20dataset/Analysis_3.PNG"></img>
+<img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/Analysis_3.PNG"></img>
  <br />
