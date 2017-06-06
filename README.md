@@ -65,8 +65,7 @@ Mr. Richard Shapiro was Enron’s top lobbyist who took part in an organized att
      • Financial term like 'expense', 'rate', 'insurance', 'transaction', 'book' and 'market'  <br />
      • Locations like 'California', 'Madrid', 'Korea', 'India', 'US', 'UK'  <br />
      • Person names like 'Elizabeth', 'Anderson', 'Clinton', 'Kaufman' and 'Billie'  <br />
-     • Establishments like 'IBM', 'BlackBerry', 'MIT' and 'Azurix'
+     • Establishments like 'IBM', 'BlackBerry', 'MIT' and 'Azurix'   <br />
 
 <b>Files:</b> Enron Analysis 3 <br />
-
- <br />
+<img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/wordcloud.PNG"></img> <br />
