@@ -62,10 +62,10 @@ Mr. Richard Shapiro was Enron’s top lobbyist who took part in an organized att
 <b>Conclusion</b> <br />
 • In the list of most people sending and receiving emails on weekends, there is a considerable amount of difference between the topmost person and the rest  <br />
 • On further analysing these emails, we get the following  <br />
-     -[X] Financial term like 'expense', 'rate', 'insurance', 'transaction', 'book' and 'market'  <br />
-     -[X] Locations like 'California', 'Madrid', 'Korea', 'India', 'US', 'UK'  <br />
-     -[X] Person names like 'Elizabeth', 'Anderson', 'Clinton', 'Kaufman' and 'Billie'  <br />
-     -[X] Establishments like 'IBM', 'BlackBerry', 'MIT' and 'Azurix'   <br />
+     -1. Financial term like 'expense', 'rate', 'insurance', 'transaction', 'book' and 'market'  <br />
+     -2. Locations like 'California', 'Madrid', 'Korea', 'India', 'US', 'UK'  <br />
+     -3. Person names like 'Elizabeth', 'Anderson', 'Clinton', 'Kaufman' and 'Billie'  <br />
+     -4. Establishments like 'IBM', 'BlackBerry', 'MIT' and 'Azurix'   <br />
 
 <b>Files:</b> Enron Analysis 3 <br />
 <img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/wordcloud.PNG"></img> <br />
