@@ -26,17 +26,23 @@ Mr. Richard Shapiro was Enron’s top lobbyist who took part in an organized att
  <br />
 
 
-<b>Analysis 2:</b> Find the frequency of words in Mr. Kenneth Lay’s emails in the deleted_item folder  <br />
+<b>Analysis 2:</b> Analysing Mr. Kenneth Lay’s emails in his 'deleted_item' folder  <br />
 
 <b>Approach:</b> <br />
 • Extract the body of every mail deleted by Mr. Kenneth Lay by traversing through all the subdirectories, subfolders and files <br />
 • Append them in a list named email_body <br />
 • Parse through each item in the list and split each word using .split(‘ ’) <br />
-• Find the frequency of these words and store them in a sorted_words list
+• Find the frequency of these words and store them in a sorted_words list <br />
+• From the list we understand that the word 'bankruptcy' has occured considerable number of times  <br />
+• Hence we find the number of emails containing with word 'bankruptcy'  <br />
+• We also calculate the total number of emails in the 'deleted_item' folder and compare the difference  <br />
 
 <b>Conclusion:</b> <br />
 • Words like ‘bankruptcy’, ‘millions’, ‘stock’ and ‘buy’ in the emails in the deleted_items folder suggests that Mr. Kenneth Lay tried to delete some mails which could suggest wrong doings <br />
-• Words like ‘Enron’, ‘gas’, ‘energy’ and ‘communication’ suggest what kind of company Enron was. Enron Corporation was an American energy, commodities, and services company
+• Words like ‘Enron’, ‘gas’, ‘energy’ and ‘communication’ suggest what kind of company Enron was. Enron Corporation was an American energy, commodities, and services company <br />
+• We notice that bankruptcy is repeated just 2 times across 1121 files out of 1126 files in the deleted_items folder <br />
+• On closer inspection we understand that body of these 1121 emails is the same with changes in salutations <br />
+• Hence we can conclude that there might have been a survey or a poll conducted after the Enron scandle was publisized and the people who signed up for this survey have sent the same mail to My Kenneth Lay
 
 <b>Files:</b> Enron Analysis 2  <br />
 <img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/Analysis_2.PNG"></img>
@@ -49,9 +55,7 @@ Mr. Richard Shapiro was Enron’s top lobbyist who took part in an organized att
 • One we get the list of files, let’s get the frequency of the word ‘bankruptcy’ used in them
 
 <b>Conclusion</b> <br />
-• We notice that bankruptcy is repeated just 2 times across 1121 files out of 1126 files in the deleted_items folder <br />
-• On closer inspection we understand that body of these 1121 emails is the same with changes in salutations <br />
-• Hence we can conclude that there might have been a survey or a poll conducted after the Enron scandle was publisized and the people who signed up for this survey have sent the same mail to My Kenneth Lay
+
 
 <b>Files:</b> Enron Analysis 3 <br />
 <img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/Analysis_3.PNG"></img>
