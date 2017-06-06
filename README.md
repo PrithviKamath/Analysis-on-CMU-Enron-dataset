@@ -42,21 +42,31 @@ Mr. Richard Shapiro was Enron’s top lobbyist who took part in an organized att
 • Words like ‘Enron’, ‘gas’, ‘energy’ and ‘communication’ suggest what kind of company Enron was. Enron Corporation was an American energy, commodities, and services company <br />
 • We notice that bankruptcy is repeated just 2 times across 1121 files out of 1126 files in the deleted_items folder <br />
 • On closer inspection we understand that body of these 1121 emails is the same with changes in salutations <br />
-• Hence we can conclude that there might have been a survey or a poll conducted after the Enron scandle was publisized and the people who signed up for this survey have sent the same mail to My Kenneth Lay
+• Hence we can conclude that there might have been a survey or a poll conducted after the Enron scandle was publisized and the people who signed up for this survey have sent the same mail to My Kenneth Lay  <br />
 
 <b>Files:</b> Enron Analysis 2  <br />
 <img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/Analysis_2.PNG"></img>
- <br />
+<img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/Analysis_3.PNG"></img>
+<br />
 
-<b>Analysis 3:</b> Find the emails in Mr. Kenneth Lay’s deleted_items folder which had ‘bankruptcy’ in them  <br />
+<b>Analysis 3:</b> Find who has sent and received the maximum number of emails on weekends.  <br />
 
 <b>Approach:</b> <br />
-• As we have seen the most words in Mr. Kenneth Lay’s deleted_items folder, we create a list of files that have the word bankruptcy in them <br />
-• One we get the list of files, let’s get the frequency of the word ‘bankruptcy’ used in them
+• Iterate through all the emails and categorize them according to the datetime stamp  <br />
+• List the top 10 people who hace sent and received maximum number of emails  <br />
+• Save the entire result in an 'WeekendMails.csv' file  <br />
+• For the topmost person in this list, take all his/her weekend emails (sent and received) and calculate save it in a bloblist  <br />
+• Calculate Term Frequency- Inverse Document Frequency (TF-IDF) for every word in the body of these mails and add the top word to a word corpus  <br />
+• Display this word corpus as a wordcloud  <br />
 
 <b>Conclusion</b> <br />
-
+• In the list of most people sending and receiving emails on weekends, there is a considerable amount of difference between the topmost person and the rest  <br />
+• On further analysing these emails, we get the following  <br />
+     • Financial term like 'expense', 'rate', 'insurance', 'transaction', 'book' and 'market'  <br />
+     • Locations like 'California', 'Madrid', 'Korea', 'India', 'US', 'UK'  <br />
+     • Person names like 'Elizabeth', 'Anderson', 'Clinton', 'Kaufman' and 'Billie'  <br />
+     • Establishments like 'IBM', 'BlackBerry', 'MIT' and 'Azurix'
 
 <b>Files:</b> Enron Analysis 3 <br />
-<img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/Analysis_3.PNG"></img>
+
  <br />
