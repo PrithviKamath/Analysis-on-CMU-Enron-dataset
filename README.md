@@ -61,11 +61,12 @@ Mr. Richard Shapiro was Enron’s top lobbyist who took part in an organized att
 
 <b>Conclusion</b> <br />
 • In the list of most people sending and receiving emails on weekends, there is a considerable amount of difference between the topmost person and the rest  <br />
-• On further analysing these emails, we get the following  <br />
+• On further analysing these emails in a word cloud, we get the following term which are used often  <br />
      -1. Financial term like 'expense', 'rate', 'insurance', 'transaction', 'book' and 'market'  <br />
-     -2. Locations like 'California', 'Madrid', 'Korea', 'India', 'US', 'UK'  <br />
+     -2. Locations like 'California', 'Madrid', 'Ontario', 'Korea', 'India', 'US', 'UK'  <br />
      -3. Person names like 'Elizabeth', 'Anderson', 'Clinton', 'Kaufman' and 'Billie'  <br />
-     -4. Establishments like 'IBM', 'BlackBerry', 'MIT' and 'Azurix'   <br />
+     -4. Establishments like 'IBM', 'BlackBerry', 'MIT', 'ONGC' and 'Azurix'   <br />
+• Words like 'Trap', 'Court', 'Withdrawal', 'Tax' and 'Traded' are also used quite often   <br />
 
 <b>Files:</b> Enron Analysis 3 <br />
 <img src="https://github.com/PrithviKamath/Analysis-on-CMU-Enron-dataset/blob/master/Output/wordcloud.PNG"></img> <br />
